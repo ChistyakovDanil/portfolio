@@ -1,0 +1,34 @@
+.header {
+  min-height: 695px;
+  background-color: #171718;
+  background-image: url(../../img/headerBg.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.header__title {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 140%;
+  letter-spacing: -0.5px;
+  margin-bottom: 20px;
+}
+.header__title strong {
+  font-size: 60px;
+}
+.header__title em {
+  font-style: normal;
+  color: #5c62ec;
+}
+
+.header__text {
+  margin-bottom: 40px;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: -0.5px;
+}
