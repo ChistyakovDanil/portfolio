@@ -13,22 +13,22 @@ const Footer = () => {
       <div className="container">
         <ul className="social">
           <li className="social__item">
-            <a href="#!">
+            <a href="//github.com/ChistyakovDanil">
               <img src={iconGitHub} alt="link" />
             </a>
           </li>
           <li className="social__item">
-            <a href="#!">
+            <a href="//www.instagram.com/4istyakov_d/">
               <img src={iconInstargram} alt="link" />
             </a>
           </li>
           <li className="social__item">
-            <a href="#!">
+            <a href="//www.linkedin.com/in/danil-chistyakov-3175b225b/">
               <img src={iconLinkedIn} alt="link" />
             </a>
           </li>
           <li className="social__item">
-            <a href="#!">
+            <a href="//t.me/chistyaa">
               <img src={iconTelegram} alt="link" />
             </a>
           </li>
